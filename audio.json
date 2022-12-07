@@ -1,0 +1,29 @@
+{
+  "songs": [
+    {
+      "title": "Bahubali-2",
+      "audio": "audio/Bahubali2.mp3",
+      "cover": "photos/Bahubali.jpg"
+    },
+    {
+      "title": "Radhe Shyam",
+      "audio": "audio/RadheShyam.mp3",
+      "cover": "photos/RadheShyam.jpeg"
+    },
+    {
+      "title": "Kartikeya-2",
+      "audio": "audio/Kartikeya.mp3",
+      "cover": "photos/Kartikeya2.jpeg"
+    },
+    {
+      "title": "Brahmastra",
+      "audio": "audio/Brahmastra.mp3",
+      "cover": "photos/Brahmastra.jpeg"
+    },
+    {
+      "title": "Bhool Bhulaiyaa-2",
+      "audio": "audio/BhoolBhulaiyaa2.mp3",
+      "cover": "photos/BhoolBhulaiyaa2.jpeg"
+    }
+  ]
+}
